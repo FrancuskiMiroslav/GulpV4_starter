@@ -1,6 +1,6 @@
 html {
-	font-family: $font-open-sans, $font-roboto, Verdana, Geneva, Tahoma,
-		sans-serif;
+	font-family: $font-open-sans, $font-roboto, $font-lato, Verdana, Geneva,
+		Tahoma, sans-serif;
 	box-sizing: border-box;
 }
 
@@ -25,4 +25,6 @@ button {
 
 img {
 	max-width: 100%;
+	max-height: 100%;
+	display: block;
 }
