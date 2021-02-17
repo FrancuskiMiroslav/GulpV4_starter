@@ -14,7 +14,7 @@
 		"name": "Francuski Miroslav",
 		"url": "https://francuskimiroslav.com"
 	},
-	"homepage": "https://francuskimiroslav.github.io/MyPortfolio/",
+	"homepage": "https://francuskimiroslav.github.io/myRepo/",
 	"license": "ISC",
 	"devDependencies": {
 		"@babel/core": "^7.10.2",
